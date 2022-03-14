@@ -1,6 +1,6 @@
 # highlight_pdf.py
 
-# Python script to search for strings (words) in a PDF document and highlight them
+## Python script to search for strings (words) in a PDF document and highlight them
 
 ## AV 14-3-2022
 
