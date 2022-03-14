@@ -1,9 +1,9 @@
 import fitz # pip3 install pymupdf
 
-pdfIn = fitz.open("xgen-prism-dna-library-prep-kit-protocol.pdf") # pdf file to search through
+pdfIn = fitz.open("input.pdf") # pdf file to search through
 
 # either open a file with a list of search words *
-with open("no_no_words.txt") as file:
+with open("list_of_words.txt") as file:
     lines = [line.rstrip() for line in file]
 
 for page in pdfIn:
