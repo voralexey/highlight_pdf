@@ -10,7 +10,7 @@
 
 ### Input files
 - Input PDF file (e.g. "xgen-prism-dna-library-prep-kit-protocol.pdf")
-- A txt file with a list of words. Every word is on an new line (e.g. "no_no_words.txt"). Instead of using a separate txt file, words can be provided in a Python list format (["word1", "word2", "word3"]) inside the script.
+- A txt file with a list of words. Every word is on a new line (e.g. "no_no_words.txt"). Instead of using a separate txt file, words can be provided in a Python list format (["word1", "word2", "word3"]) inside the script.
 
 
 ### Output files
